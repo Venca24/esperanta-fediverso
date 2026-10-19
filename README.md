@@ -18,6 +18,7 @@ Tiu ĉi projekto listigas publikajn kontojn ĉe Fediverso, federacia kaj libera 
 | BAVELO, Baden-Virtemberga Esperanto-Ligo | bavelo@esperanto.masto.host | https://esperanto.masto.host/@bavelo | Mastodon |
 | Esperanto en Valencio | esperantovalencia@mastodon.social | https://mastodon.social/@esperantovalencia | Mastodon |
 | Esperanto en Valencio | esperantovalencia@pixelfed.social | https://pixelfed.social/esperantovalencia | Pixelfed |
+| Esperanto-Klubo Itaĵubao | esperanto_itajubao@esperanto.masto.host | https://esperanto.masto.host/@esperanto_itajubao | Mastodon |
 | Esperanto klubo Tübingen | esperanto_tubingeno@mastodon.social | https://mastodon.social/@esperanto_tubingeno | Mastodon |
 | Espéranto Paris Île-de-France | esperantoparis@esperanto.masto.host | https://esperanto.masto.host/@esperantoparis | Mastodon |
 | Esperanto-USA | esperantousa@esperanto.masto.host | https://esperanto.masto.host/@esperantousa | Mastodon |
